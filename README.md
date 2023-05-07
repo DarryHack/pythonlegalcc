@@ -8,7 +8,7 @@ Merhaba proje  hızlı calışan bir panel diyebilirsiniz datalari bulmak size k
 Projeyi klonlayın
 
 ```bash
-  git clone https://github.com/pythonlegalcc/pythonlegalcc.py
+  git clone https://github.com/pythonlegalcc/pythonlegalcc.git
 ```
 
 Proje dizinine gidin
