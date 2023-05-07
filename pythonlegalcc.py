@@ -105,7 +105,7 @@ while True:
     elif secim == "6":
         subprocess.run(["python", "adres.py"])
     elif secim == "8":
-        webbrowser.open("https://discord.gg/3Fb4hjgv")
+        webbrowser.open("https://discord.gg/kYVGc36VzZ")
     else:
         consoleclear()
         print("Hatalı seçim.")
