@@ -23,7 +23,7 @@ Gerekli paketleri yükleyin
   pip install -r requirements.txt
 ```
 
-Checkeri çalıştırın
+pythonlegalcc yi çalıştırın
 
 ```bash
   py pythonlegalcc.py
